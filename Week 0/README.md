@@ -1,7 +1,5 @@
 # Python Resources
 
-# Week 1
-
 Welcome to the course! 
 This week we talk about - 
 * Basic Python 
