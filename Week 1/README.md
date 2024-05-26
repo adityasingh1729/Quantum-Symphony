@@ -3,8 +3,8 @@ For the first week, we will mostly focus on laying the foundations for the upcom
 So your task for the first week is:
 
 From QCQI: 
-Chapter 2- Section 2.1, Section 2.2 (Mainly till evolution)
-Chapter 1- Section 1.2
+1. Chapter 2- Section 2.1, Section 2.2 (Mainly till evolution)
+2. Chapter 1- Section 1.2
 
 After that, you can check out IBM learning resources. It has both text and videos so you can choose whatever you prefer.
 Also, for some introduction to the qiskit library, you can check out the 'qiskit examples' from the below -
