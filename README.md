@@ -15,5 +15,5 @@ Plan of Action:
 The relevant resources and some basic coding or theoretical tasks for the kth week will be shared by Sunday E.O.D. of the (k-1)th week.
 *Another Important thing*: 
 Even though we will share with you various resources, the main resources for at least the Quantum Computing parts will be 
-1. QCQI by Isaac Chuang and Michael Nielsen (PDF below)
+1. QCQI by Isaac Chuang and Michael Nielsen (https://profmcruz.wordpress.com/wp-content/uploads/2017/08/quantum-computation-and-quantum-information-nielsen-chuang.pdf)
 2. IBM’s online qiskit textbook: https://learning.quantum.ibm.com
