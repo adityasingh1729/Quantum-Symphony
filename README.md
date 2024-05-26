@@ -3,7 +3,7 @@ Repository for "Quantum Symphony" as a part of WnCC Seasons of Code '24!
 
 Plan of Action: 
 
-Week 1: Basics of Quantum mechanics and linear Algebra, Introduction to qubits, qiskits
+Week 1: Basics of Quantum mechanics and linear Algebra, Introduction to qubits, qiskits  \n
 Week 2: Quantum Gates and Circuits, Phase kickback, QFT
 Week 3: Quantum Algorithms
 Week 4 & 5: Introduction to Deep Learning/ Introduction to Reinforcement Learning
