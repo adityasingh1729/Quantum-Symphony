@@ -8,8 +8,8 @@ Chapter 1- Section 1.2
 
 After that, you can check out IBM learning resources. It has both text and videos so you can choose whatever you prefer.
 Also, for some introduction to the qiskit library, you can check out the 'qiskit examples' from the below -
-https://learning.quantum.ibm.com/course/basics-of-quantum-information/single-systems
-https://learning.quantum.ibm.com/course/basics-of-quantum-information/multiple-systems
+1. https://learning.quantum.ibm.com/course/basics-of-quantum-information/single-systems
+2. https://learning.quantum.ibm.com/course/basics-of-quantum-information/multiple-systems
 
 For those having some difficulties learning from the above, the video below explains the major topics quite nicely:
 https://youtu.be/xgA4Dx_7q34?si=PLfxi03JQ9Wa_4zQ
