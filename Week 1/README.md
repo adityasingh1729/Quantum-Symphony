@@ -3,7 +3,7 @@ For the first week, we will mostly focus on laying the foundations for the upcom
 So your task for the first week is:
 
 From QCQI: 
-1. Chapter 2- Section 2.1, Section 2.2 (Mainly till evolution)
+1. Chapter 2- Section 2.1, Section 2.2 (Mainly till evolution, but if you are following it well enough you can read this section fully)
 2. Chapter 1- Section 1.2
 
 After that, you can check out IBM learning resources. It has both text and videos so you can choose whatever you prefer.
