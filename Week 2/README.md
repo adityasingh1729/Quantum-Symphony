@@ -1,4 +1,4 @@
-Hello everyone, I Hope you all are doing well!
+Hello everyone, Hope you all are doing well!
 
 After a week full of Quantum Mechanics and Linear Algebra principles we are more than qualified to dive into Quantum Computing.
 
