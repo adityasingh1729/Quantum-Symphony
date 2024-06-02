@@ -7,6 +7,7 @@ For Starters, let us begin by familiarising ourselves with Quantum gates and Qua
 From QCQI:
 1. Chapter 1: Section 1.3 (To get an overview of what we are getting into)
 2. Chapter 4: Section 4.2 - Section 4.5 (Mainly till 4.5.2 only)
+   
 From Qiskit Textbook: (Go there only after reading the above resources, since there's not much introduction on gates)
 1. https://learning.quantum.ibm.com/course/basics-of-quantum-information/quantum-circuits (Read this fully, since I skipped some concepts on POVMS in the first week since as it was getting too heavy)
 
