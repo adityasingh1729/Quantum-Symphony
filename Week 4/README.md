@@ -11,8 +11,10 @@ By the end of these tasks, you should have a foundational understanding of Machi
 
 Now that we've mastered the basics of machine learning, it's time to dive deep—literally! Buckle up because we're headed into the thrilling depths of Deep Learning
 
-Complete the course [Neural Networks and Machine Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) by Andrew Ng
+- Complete the course [Neural Networks and Machine Learning](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) by Andrew Ng.
 It'll give you a solid understanding of Deep Learning and a clear view of how neural networks actually work.
+- You can also watch the first 4 videos of this playlist by [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) to understand the maths behind the neural networks.
+
 
 
 
