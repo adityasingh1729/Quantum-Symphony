@@ -15,6 +15,10 @@ Now that we've mastered the basics of machine learning, it's time to dive deepâ€
 It'll give you a solid understanding of Deep Learning and a clear view of how neural networks actually work.
 - You can also watch the first 4 videos of this playlist by [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) to understand the maths behind the neural networks.
 
+# Reinforcement Learning
+- For the introduction to Reinforcement Learning, you can go through the first video of [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
+- YOu can also go through the first chapter from the book Sutton and Barto.
+
 
 
 
