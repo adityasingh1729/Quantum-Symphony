@@ -17,7 +17,10 @@ It'll give you a solid understanding of Deep Learning and a clear view of how ne
 
 # Reinforcement Learning
 - For the introduction to Reinforcement Learning, you can go through the first video of [RL Course by David Silver](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-- You can also go through the first chapter from the book **[Sutton and Barto](./Sutton%20and%20Barto.pdf)**
+- You can also go through the first chapter from the book **[An Introduction to RL](./Sutton%20and%20Barto.pdf)** by Sutton and Barto.
+
+
+Feel free to reach out if you have any questions or need further assistance with the materials.
 
 
 
