@@ -6,11 +6,10 @@ Plan of Action:
 1. Week 1: Basics of Quantum mechanics and linear Algebra, Introduction to qubits, qiskit
 2. Week 2: Quantum Gates and Circuits, Phase kickback, QFT
 3. Week 3: Quantum Algorithms
-4. Week 4 & 5: Introduction to Deep Learning/ Introduction to Reinforcement Learning
-5. Week 6: Introduction to QML,
-6. Release of Mid-term Assignment
-7. Week 7: More on QNN/QRL
-8. Week 8/9: Implementing Research papers
+4. Week 4 & 5: Introduction to ML
+5. Week 6: Introduction to Deep Learning/ Reinforcement Learning
+6. Week 7: Intro to QML
+7. Week 8/9: Implementing Research papers
 
 The relevant resources and some basic coding or theoretical tasks for the kth week will be shared by Sunday E.O.D. of the (k-1)th week.
 *Another Important thing*: 
